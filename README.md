@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > This governance document is a fork of the Nouncil documents and has not yet been fully updated and adjusted for the Lil Nouncil.
 
-# Contents
+## Contents
 
 - [Voting](#voting)
     - [Voting Options](#voting-options)
@@ -27,7 +27,7 @@
 
 ### Voting Options:
 
-All polls in `#lil-nouncil-votes` have the following options: `FOR`, `AGAINST`, or a Lil Nouncillor can abstain.
+All polls in `#lil-nouncil-votes` have the following options: `FOR`, `AGAINST`, or a **Lil Nouncillor** can abstain.
 
 ### Voting Period:
 
