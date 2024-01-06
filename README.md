@@ -3,6 +3,26 @@
 > [!IMPORTANT]  
 > This governance document is a fork of the Nouncil documents and has not yet been fully updated and adjusted for the Lil Nouncil.
 
+# Contents
+
+- [Voting](#voting)
+    - [Voting Options](#voting-options)
+    - [Voting Period](#voting-period)
+    - [Voting Quorum](#voting-quorum)
+    - [Vote Threshold](#vote-threshold)
+    - [Changing Votes](#changing-votes)
+    - [Voting Results](#voting-results)
+- [Members](#members)
+    - [Eligibility](#eligibility)
+    - [New Members](#new-members)
+    - [Removal of Members](#removal-of-members)
+    - [Lil Nouns DAO Proposals](#lil-nouns-dao-proposals)
+    - [Prop House](#prop-house)
+    - [Active Nouncillor](#active-nouncillor)
+    - [Minimum Vote Participation Rate](#minimum-vote-participation-rate)
+    - [Presence in Discord](#presence-in-discord)
+
+
 ## Voting
 
 ### Voting Options:
@@ -76,7 +96,7 @@ Should it be appropriate to remove a member of the Lil Nouncil due to behavior u
 any two members of the Lil Nouncil can suggest the removal of said member, which will then be put to a binding Nouncil vote. 
 Removing a Nouncillor requires a majority decision (> 51% of Lil Nouncillors)
 
-### NounsDAO Proposals: 
+### Lil Nouns DAO Proposals: 
 
 The Lil Nouncil shall endeavor to discuss and vote on every proposal made at [Lil Nouns Governance](https://lilnouns.wtf/vote). 
 
