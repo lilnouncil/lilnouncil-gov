@@ -1,4 +1,7 @@
-# Nouncil Governance Guidelines
+# LiL Nouncil Governance Guidelines
+
+> [!IMPORTANT]  
+> This governance document is a fork of the Nouncil documents and has not been updated or adjusted for the Lil Council yet.
 
 ## VOTING
 
