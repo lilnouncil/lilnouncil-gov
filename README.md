@@ -18,7 +18,7 @@
     - [Removal of Members](#removal-of-members)
     - [Lil Nouns DAO Proposals](#lil-nouns-dao-proposals)
     - [Prop House](#prop-house)
-    - [Active Nouncillor](#active-nouncillor)
+    - [Active Lil Nouncillor](#active-lil-nouncillor)
     - [Minimum Vote Participation Rate](#minimum-vote-participation-rate)
     - [Presence in Discord](#presence-in-discord)
 
@@ -104,9 +104,9 @@ The **Lil Nouncil** shall endeavor to discuss and vote on every proposal made at
 
 If a **Lil Nouncillor** has a proposal in a [Prop House](https://prop.house/) that the **Lil Nouncil** is voting on, they should vote however they want, including for their proposal.
 
-### Active Nouncillor
+### Active Lil Nouncillor
 
-An Active **Lil Nouncillor** is a **Lil Nouncillor** who has a vote participation rate of 50% or greater and has been active in **Lil Nouncil** for at least two months.
+An active **Lil Nouncillor** has a vote participation rate of 50% or greater and has been involved in **Lil Nouncil** for at least two months.
 This status will be used to determine eligibility for various grant programs. 
 For instance, only active **Lil Nouncillors** are eligible for the regular Community Grants allocations.
 
