@@ -1,7 +1,7 @@
-# LiL Nouncil Governance Guidelines
+# Lil Nouncil Governance Guidelines
 
 > [!IMPORTANT]  
-> This governance document is a fork of the Nouncil documents and has not yet been fully updated and adjusted for the Lil Nouncil.
+> This governance document is a modified version of the Nouncil documents. However, it has not yet been fully updated and adjusted for the Lil Nouncil and voted on.
 
 ## Contents
 
@@ -31,11 +31,11 @@ All polls in `#lil-nouncil-votes` have the following options: `FOR`, `AGAINST`, 
 
 ### Voting Period:
 
-All Lil Nouncil polls are open for five days (120 hours), after which voting will close. Late votes will not be accepted.
+All **Lil Nouncil** polls are open for five days (120 hours), after which voting will close. Late votes will not be accepted.
 
 ### Voting Quorum: 
 
-The minimum number of Lil Nouncilors needed to vote on a proposal for a decision to be made. 
+The minimum number of **Lil Nouncilors** needed to vote on a proposal for a decision to be made. 
 Abstains count towards quorum. A vote that fails to meet the quorum is null and void.
 
 Current Voting Quorum: 30%
@@ -62,9 +62,9 @@ For example, if we have 100 Lil Nouncillors, a vote option such as `FOR` needs 3
 even if it is the option with the highest votes.
 
 If a poll results in a tie, it is inconclusive.
-Inconclusive polls will be processed as `ABSTAIN` in external governance, such as Lil Nouns DAO.
-If a vote meets the quorum, a single vote option has the most votes, and those votes meet or pass the Vote Threshold, 
-that vote option will be considered the winner in a binding Nouncil decision.
+Inconclusive polls will be processed as `ABSTAIN` in external governance, such as **Lil Nouns DAO**.
+If a vote meets the quorum, a single vote option has the most votes, and those votes meet or pass the *Vote Threshold*, 
+that vote option will be considered the winner in a binding **Lil Nouncil** decision.
 
 
 ## Members
@@ -75,52 +75,52 @@ To be eligible for membership in Lil Nouncil, an individual must demonstrate a t
 
 ### New Members:
 
-New members can join the Nouncil Discussion Channel anytime and engage in (respectful) dialog and discussion.
+New members can join the Lil Nouncil Discussion Channel anytime and engage in (respectful) dialog and discussion.
 
-To join Lil Nouncil, you must head to [Lil Nouns Discord](https://discord.gg/zXPSZj7zSb) and, in the `#lil-nouncil-chat` channel, ask to join Nouncil. 
+To join Lil Nouncil, you must head to [Lil Nouns Discord](https://discord.gg/zXPSZj7zSb) and, in the `#lil-nouncil-chat` channel, ask to join **Lil Nouncil**. 
 Please include a summary of your Nounish activities and any relevant social media links.
 
 Any Lil Nouncillor can sign an application to vote using the command `/nerman create-poll` in `#lil-nouncil-votes`. 
 Nomination polls must clearly state who is applying, tag them, and link to their application message.
 
-When voting on a new member, Lil Nouncillors should evaluate the application on the following criteria:
+When voting on a new member, **Lil Nouncillors** should evaluate the application on the following criteria:
 
 - Are they a Nounish builder?
 - Have they shipped or worked on any Nounish projects/products?
 - Do they have a track record of execution?
-- Are they unique person and not an alternate account for any existing Nouncillor?
+- Are they unique person and not an alternate account for any existing **Lil Nouncillor**?
 
 ### Removal of Members: 
 
-Should it be appropriate to remove a member of the Lil Nouncil due to behavior unbecoming a Lil Nouncillor or project termination, 
-any two members of the Lil Nouncil can suggest the removal of said member, which will then be put to a binding Nouncil vote. 
-Removing a Nouncillor requires a majority decision (> 51% of Lil Nouncillors)
+Should it be appropriate to remove a member of the **Lil Nouncil** due to behavior unbecoming a **Lil Nouncillor** or project termination, 
+any two members of the **Lil Nouncil** can suggest the removal of said member, which will then be put to a binding **Lil Nouncil** vote. 
+Removing a **Lil Nouncillor** requires a majority decision (> 51% of **Lil Nouncillors**)
 
 ### Lil Nouns DAO Proposals: 
 
-The Lil Nouncil shall endeavor to discuss and vote on every proposal made at [Lil Nouns Governance](https://lilnouns.wtf/vote). 
+The **Lil Nouncil** shall endeavor to discuss and vote on every proposal made at [Lil Nouns Governance](https://lilnouns.wtf/vote). 
 
 ### Prop House
 
-If a. Lil Nouncillor has a proposal in a [Prop House](https://prop.house/) that the Lil Nouncil is voting on, they should vote however they want, including for their proposal.
+If a **Lil Nouncillor** has a proposal in a [Prop House](https://prop.house/) that the **Lil Nouncil** is voting on, they should vote however they want, including for their proposal.
 
 ### Active Nouncillor
 
-An Active Lil Nouncillor is a Lil Nouncillor who has a vote participation rate of 50% or greater and has been active in Lil Nouncil for at least two months.
+An Active **Lil Nouncillor** is a **Lil Nouncillor** who has a vote participation rate of 50% or greater and has been active in **Lil Nouncil** for at least two months.
 This status will be used to determine eligibility for various grant programs. 
-For instance, only Active Nouncillors are eligible for the regular Community Grants allocations.
+For instance, only active **Lil Nouncillors** are eligible for the regular Community Grants allocations.
 
 ### Minimum Vote Participation Rate
 
 Current Minimum Vote Participation Rate: 20%
 
-If a Nouncillor’s vote participation falls below the minimum, they will be automatically removed from the Nouncil. 
-They can apply again anytime, but all Nouncil voting records will start from scratch.
+If a **Lil Nouncillor’s** vote participation falls below the minimum, they will be automatically removed from the **Lil Nouncil**. 
+They can apply again anytime, but all **Lil Nouncil** voting records will start from scratch.
 
 ### Presence in Discord
 
-It is not currently possible to participate in Nouncil without being a member of the Nouncil Discord server. 
-As such, leaving the Nouncil Discord is equivalent to resigning from Nouncil.
+It is not currently possible to participate in **Lil Nouncil** without being a member of the [Lil Nouns Discord](https://discord.gg/zXPSZj7zSb) server. 
+As such, leaving the Discord server is equivalent to resigning from **Lil Nouncil**.
 
-If a Lil Nouncillor leaves the Lil Nouns Discord, they have seven days to rejoin and contact an admin to restore their Nouncillor role. 
-After seven days, they will be removed from Nouncil entirely and must reapply to join.
+If a **Lil Nouncillor** leaves the **Lil Nouns Discord**, they have seven days to rejoin and contact an admin to restore their **Lil Nouncillor** role. 
+After seven days, they will be entirely removed from **Lil Nouncil** and must reapply to join.
