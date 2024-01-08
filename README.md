@@ -1,7 +1,7 @@
 # Lil Nouncil Governance Guidelines
 
 > [!IMPORTANT]  
-> This governance document is a modified version of the Nouncil documents. However, it has not yet been fully updated and adjusted for the Lil Nouncil and voted on.
+> This governance document is a modified version of the **Nouncil** documents. However, it has not yet been fully updated and adjusted for the **Lil Nouncil** and voted on.
 
 ## Contents
 
@@ -25,22 +25,22 @@
 
 ## Voting
 
-### Voting Options:
+### Voting Options
 
 All polls in `#lil-nouncil-votes` have the following options: `FOR`, `AGAINST`, or a **Lil Nouncillor** can abstain.
 
-### Voting Period:
+### Voting Period
 
 All **Lil Nouncil** polls are open for five days (120 hours), after which voting will close. Late votes will not be accepted.
 
-### Voting Quorum: 
+### Voting Quorum
 
 The minimum number of **Lil Nouncilors** needed to vote on a proposal for a decision to be made. 
 Abstains count towards quorum. A vote that fails to meet the quorum is null and void.
 
 Current Voting Quorum: 30%
 
-### Vote Threshold:
+### Vote Threshold
 
 In addition to meeting quorum, for a poll to succeed, the leading option must have a minimum of 30% support. 
 This includes both `FOR` and `AGAINST` options. If the voting threshold is not met, the poll is inconclusive.
@@ -49,19 +49,20 @@ Current Vote Threshold: 21%
 
 ### Changing Votes
 
-If a Lil Nouncillor has voted on a poll and wants to change their vote before it closes, 
+If a **Lil Nouncillor** has voted on a poll and wants to change their vote before it closes, 
 they can DM [Joel Cares](https://discord.com/users/362737590430072862) to delete their old vote. 
 This can only be done once per poll, and they are responsible for processing their updated vote.
 
-### Voting Results:
+### Voting Results
 
 If the quorum is not met, a poll is inconclusive.
 
-If no option reaches the Vote Threshold, the poll is inconclusive.
-For example, if we have 100 Lil Nouncillors, a vote option such as `FOR` needs 30 or more supporting votes to succeed, 
+The poll is inconclusive if no option reaches the *Vote Threshold*.
+For example, if we have 100 **Lil Nouncillors**, a vote option such as `FOR` needs 30 or more supporting votes to succeed, 
 even if it is the option with the highest votes.
 
 If a poll results in a tie, it is inconclusive.
+
 Inconclusive polls will be processed as `ABSTAIN` in external governance, such as **Lil Nouns DAO**.
 If a vote meets the quorum, a single vote option has the most votes, and those votes meet or pass the *Vote Threshold*, 
 that vote option will be considered the winner in a binding **Lil Nouncil** decision.
@@ -69,11 +70,11 @@ that vote option will be considered the winner in a binding **Lil Nouncil** deci
 
 ## Members
 
-### Eligibility:
+### Eligibility
 
 To be eligible for membership in Lil Nouncil, an individual must demonstrate a track record of Nounish Building.
 
-### New Members:
+### New Members
 
 New members can join the Lil Nouncil Discussion Channel anytime and engage in (respectful) dialog and discussion.
 
@@ -90,13 +91,13 @@ When voting on a new member, **Lil Nouncillors** should evaluate the application
 - Do they have a track record of execution?
 - Are they unique person and not an alternate account for any existing **Lil Nouncillor**?
 
-### Removal of Members: 
+### Removal of Members
 
 Should it be appropriate to remove a member of the **Lil Nouncil** due to behavior unbecoming a **Lil Nouncillor** or project termination, 
 any two members of the **Lil Nouncil** can suggest the removal of said member, which will then be put to a binding **Lil Nouncil** vote. 
 Removing a **Lil Nouncillor** requires a majority decision (> 51% of **Lil Nouncillors**)
 
-### Lil Nouns DAO Proposals: 
+### Lil Nouns DAO Proposals
 
 The **Lil Nouncil** shall endeavor to discuss and vote on every proposal made at [Lil Nouns Governance](https://lilnouns.wtf/vote). 
 
