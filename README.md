@@ -31,7 +31,7 @@ All polls in `#lil-nouncil-votes` have the following options: `FOR`, `AGAINST`, 
 
 ### Voting Period
 
-All **Lil Nouncil** polls are open for five days (120 hours), after which voting will close. Late votes will not be accepted.
+All **Lil Nouncil** polls are open for three days (72 hours), after which voting will close. Late votes will not be accepted.
 
 ### Voting Quorum
 
