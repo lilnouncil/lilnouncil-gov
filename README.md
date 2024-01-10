@@ -1,9 +1,5 @@
 # Lil Nouncil Governance Guidelines
 
-> [!IMPORTANT]  
-> This governance document is a modified version of the **Nouncil** documents. However, it has not yet been fully
-> updated and adjusted for the **Lil Nouncil** and voted on.
-
 ## Contents
 
 - [Voting](#voting)
