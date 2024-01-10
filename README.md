@@ -19,7 +19,6 @@
     - [Removal of Members](#removal-of-members)
     - [Lil Nouns DAO Proposals](#lil-nouns-dao-proposals)
     - [Prop House Proposals](#prop-house-proposals)
-    - [Active Lil Nouncillor](#active-lil-nouncillor)
     - [Minimum Vote Participation Rate](#minimum-vote-participation-rate)
     - [Presence in Discord](#presence-in-discord)
 
@@ -100,10 +99,6 @@ The **Lil Nouncil** shall endeavor to discuss and vote on every proposal made at
 ### Prop House Proposals
 
 If a **Lil Nouncillor** has a proposal in a [Prop House](https://prop.house/) that the **Lil Nouncil** is voting on, they should vote however they want, including for their proposal.
-
-### Active Lil Nouncillor
-
-An active **Lil Nouncillor** has a vote participation rate of 50% or greater and has been involved in **Lil Nouncil** for at least two months.
 
 ### Minimum Vote Participation Rate
 
