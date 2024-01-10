@@ -108,8 +108,6 @@ If a **Lil Nouncillor** has a proposal in a [Prop House](https://prop.house/) th
 ### Active Lil Nouncillor
 
 An active **Lil Nouncillor** has a vote participation rate of 50% or greater and has been involved in **Lil Nouncil** for at least two months.
-This status will be used to determine eligibility for various grant programs. 
-For instance, only active **Lil Nouncillors** are eligible for the regular Community Grants allocations.
 
 ### Minimum Vote Participation Rate
 
