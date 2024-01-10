@@ -35,7 +35,7 @@ accepted.
 
 ### Voting Quorum
 
-The minimum number of **Lil Nouncilors** needed to vote on a proposal for a decision to be made.
+The minimum number of **Lil Nouncillors** needed to vote on a proposal for a decision to be made.
 Abstains count towards quorum. A vote that fails to meet the quorum is null and void.
 
 Current Voting Quorum: 30%
