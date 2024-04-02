@@ -17,6 +17,11 @@
     - [Prop House Proposals](#prop-house-proposals)
     - [Minimum Vote Participation Rate](#minimum-vote-participation-rate)
     - [Presence in Discord](#presence-in-discord)
+- [Sponsorship](#sponsorship)
+    - [Overview](#overview)
+    - [Procedure](#procedure)
+    - [Financial Strategy](#financial-strategy)
+ 
 
 ## Voting
 
@@ -110,3 +115,20 @@ As such, leaving the Discord server is equivalent to resigning from **Lil Nounci
 
 If a **Lil Nouncillor** leaves the **Lil Nouns Discord**, they have seven days to rejoin and contact an admin to restore their **Lil Nouncillor** role.
 After seven days, they will be entirely removed from **Lil Nouncil** and must reapply to join.
+
+## Sponsorship
+
+### Overview
+
+Sponsorship proposals are meticulously assessed for their alignment with the core values of **Lil Nouns**, focusing on their potential impact, engagement with the community, and innovative nature. Each proposal must offer a clear plan, including its goals, anticipated outcomes, and significance within the **Lil Nouns** DAO.
+
+### Procedure
+
+1. **Submission**: **Lil Nouncilors** submit sponsorship proposals directly via the **Lil Nouns** Discord server as a poll.
+2. **Voting**: The **Lil Nouncil** votes on these proposals, leveraging the established [Voting](#voting) guidelines to ensure a fair decision-making process.
+3. **Implementation**: Once approved, sponsorships enter a queue, where **Lil Nouncil** wallet owners are tasked with operationalizing them, thus translating plans on-chain.
+
+### Financial Strategy
+
+A designated budget of 0.25 ETH is allocated specifically for putting sponsorship proposals on-chain. This fund is carefully managed, subject to revisions and approvals by the **Lil Nouncil**, which may propose adjustments or increases to the **Lil Nouns** DAO to ensure the program's sustainability and adaptability.
+
